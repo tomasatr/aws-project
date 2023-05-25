@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsprojectb64834cd": {}
+      },
+      "api": {
+        "awsproject": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
